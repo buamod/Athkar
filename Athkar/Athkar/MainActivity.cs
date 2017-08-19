@@ -13,6 +13,7 @@ namespace Athkar
 
             // Set our view from the "main" layout resource
             // SetContentView (Resource.Layout.Main);
+            // I opened it and it's on IBRAHIM
         }
     }
 }
